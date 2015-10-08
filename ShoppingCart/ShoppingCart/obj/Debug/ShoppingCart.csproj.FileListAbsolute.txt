@@ -1,0 +1,6 @@
+C:\Users\feliperc\OneDrive\Public\Estudo\AngularJs\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\feliperc\OneDrive\Public\Estudo\AngularJs\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\AngularJs\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\feliperc\OneDrive\Public\Estudo\AngularJs\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\feliperc\OneDrive\Public\Estudo\AngularJs\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\AngularJs\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
